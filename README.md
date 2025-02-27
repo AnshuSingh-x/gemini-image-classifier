@@ -1,4 +1,4 @@
-Image Classifier Web App with Google Gemini Pro
+Image Classifier Web App with Google gemini-1.5-flash model
 
 This repository contains the source code for a Image Classifer web application powered by the Google Gemini Pro model. The app is designed to facilitate interactive, conversational experiences for users through a seamless web interface.
 
