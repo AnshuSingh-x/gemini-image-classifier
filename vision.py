@@ -20,7 +20,7 @@ def get_gemini_response(input, image):
     return response.text
 
 # Streamlit UI setup
-st.set_page_config(page_title="Gemini Image Classifier")
+st.set_page_config(page_title="AI Image Classifier")
 st.header("Gemini Image Classifier")
 
 input = st.text_input("Input prompt: ", key="input")
